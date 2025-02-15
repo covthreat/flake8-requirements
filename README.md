@@ -1,1 +1,3 @@
-flake8-requirements.txt  15.02.2025
+flake8-requirements.txt
+Установка :
+pip install -r flake8-requirements.txt
