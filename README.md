@@ -7,3 +7,5 @@ https://github.com/covthreat/flake8-requirements.git
 Запускать startpy.sh с аргументами startpy.sh project_folder python_3.11
 
 ./startpy.sh my_project 3.11
+
+Добавлен файл настроек setup.cfg
